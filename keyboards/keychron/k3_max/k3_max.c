@@ -28,7 +28,7 @@
 #    include "battery.h"
 #endif
 
-#define POWER_ON_LED_DURATION 3000
+#define POWER_ON_LED_DURATION 1000
 static uint32_t power_on_indicator_timer;
 
 
